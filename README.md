@@ -11,4 +11,5 @@ quickly as possible.
 
 ## 🧭 HOW IS THE PANEL? 🧭
 
-![image](https://github.com/VictuzMc-Network/Panel-Server/assets/128086397/d4717525-8d00-49cd-bf0f-73d305e5b7d2)
+![image](https://github.com/VictuzMc-Network/Panel-Server/assets/128086397/5ac92592-2a23-47e5-889f-f361d806bbe0)
+
